@@ -43,10 +43,10 @@ def LemNormalize(text):
 Introduce_Ans = ["My name is PyBot.","My name is PyBot you can called me pi.","Im PyBot :) ","My name is PyBot. and my nickname is pi and i am happy to solve your queries :) "]
 GREETING_INPUTS = ("hello", "hi","hiii","hii","hiiii","hiiii", "greetings", "sup", "what's up","hey",)
 GREETING_RESPONSES = ["hi", "hey", "hii there", "hi there", "hello", "I am glad! You are talking to me"]
-Basic_Q = ("what is python ?","what is python","what is python?","what is python.")
-Basic_Ans = "Python is a high-level, interpreted, interactive and object-oriented scripting programming language python is designed to be highly readable It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages."
-Basic_Om = ("what is module","what is module.","what is module ","what is module ?","what is module?","what is module in python","what is module in python.","what is module in python?","what is module in python ?")
-Basic_AnsM = ["Consider a module to be the same as a code library.","A file containing a set of functions you want to include in your application.","A module can define functions, classes and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use."]
+Basic_Q = ("Do you suffer from any diseases?","what diseases","Do you sufeer from any health diseases ?")
+Basic_Ans = ["yes, i suffer from diabetes"," Diabetes"," No, i dont have any diseases"," I have heart disease and thyroid"]
+Basic_Om = ("what is your dob","what is your dob.","what is your dob ","what is your dob ?")
+Basic_AnsM = [" your dob is"]
 
 
 # Checking for greetings
