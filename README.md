@@ -1,2 +1,2 @@
 # ode-to-code1
-Online coding hackathon
+Online 24 coding hackathon
